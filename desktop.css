@@ -1,0 +1,68 @@
+body {
+  background-image: url(./images/bg-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: left;
+  background-color: var(--violet);
+}
+
+header {
+  width: 60%;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 40%;
+  padding-top: 0;
+  text-align: left;
+}
+.great-container {
+  display: flex;
+}
+
+.logo-container {
+  width: 280px;
+  height: 55px;
+  padding-left: 60px;
+}
+.logo-container__image {
+  width: 280px;
+  height: 55px;
+}
+
+.mockup-container {
+  width: 655px;
+  height: 595px;
+  align-self: center;
+  padding-top: 85px;
+  padding-left: 10px;
+}
+.mockup-container__image {
+  width: 700px;
+  height: 525px;
+}
+
+.main-text__title {
+  font-size: 3.5rem;
+  line-height: 5rem;
+  padding-top: 70px;
+}
+.main-text__paragraph {
+  padding-left: 12px;
+  font-size: 1.5rem;
+}
+.main-button {
+  margin-left: 40px;
+}
+
+.footer__icons {
+  text-align: right;
+}
+.footer__icons--ig {
+  padding-right: 80px;
+}
+
+.icon:hover {
+  color: var(--soft-magenta);
+}
