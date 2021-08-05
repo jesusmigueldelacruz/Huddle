@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/miguedebe/Huddle)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://miguedebe.github.io/Huddle/)
 
 ## My process
 
