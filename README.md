@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/miguedebe/Huddle)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/miguedebe/Huddle)
+- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
 
 ## My process
 
@@ -41,4 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Twitter - [@yourusername](https://www.twitter.com/miguedebe)
+- Twitter - [@miguedebe](https://www.twitter.com/miguedebe)
